@@ -30,9 +30,6 @@ Medición de voltaje y corriente en Tinkercad:
 
 ![image](https://user-images.githubusercontent.com/105291794/176592815-30dfc8a9-80ba-4977-82da-37aa417461ad.png)
 
-Simulación:
-
-![image](https://user-images.githubusercontent.com/105291794/176592849-b6322658-6040-473c-9f7c-1ff1b3324236.png)
 
 3.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
@@ -72,7 +69,6 @@ IX, respetando tanto la polaridad del voltaje como el sentido de la corriente qu
 
 ![image](https://user-images.githubusercontent.com/105291794/176594893-e0d9e03b-84b9-44e5-9b08-80674878b183.png)
 
-![image](https://user-images.githubusercontent.com/105291794/176594909-0c170287-0581-4a2f-8c6d-81b199d84c92.png)
 
 Finalmente, el valor de la corriente y del voltaje del circuito es:
 
@@ -85,8 +81,6 @@ A continuación, la captura de pantalla de corriente y voltaje medidos tanto en 
 
 ![image](https://user-images.githubusercontent.com/105291794/176595718-c7757b93-f4ad-4a5d-bd54-c49b83cf8e44.png)
 
-
-![image](https://user-images.githubusercontent.com/105291794/176595736-964bab28-9656-4105-9a11-9da1cfa79e1f.png)
 
 Primero redibujamos el circuito para analizar la corriente y voltaje solo con la fuente de 12V.
 
