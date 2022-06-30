@@ -30,7 +30,7 @@ Medición de voltaje y corriente en Tinkercad:
 
 ![image](https://user-images.githubusercontent.com/105291794/176592815-30dfc8a9-80ba-4977-82da-37aa417461ad.png)
 
-Simulación Multisim:
+Simulación:
 
 ![image](https://user-images.githubusercontent.com/105291794/176592849-b6322658-6040-473c-9f7c-1ff1b3324236.png)
 
@@ -64,7 +64,7 @@ Para calcular el voltaje VA usamos la ley de ohm:
 
 ![image](https://user-images.githubusercontent.com/105291794/176593831-9be90921-6748-4ab7-96a5-b63bb00b424e.png)
 
-A continuación, la captura de pantalla de corriente y voltaje medidos tanto en Tinkercad como en multisim:
+A continuación, la captura de pantalla de corriente y voltaje medidos tanto en Tinkercad :
 
 4.5.3.	Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
@@ -78,7 +78,7 @@ Finalmente, el valor de la corriente y del voltaje del circuito es:
 
 ![image](https://user-images.githubusercontent.com/105291794/176594978-19e384da-e7b0-4d7e-83fb-14a5bc7aff2e.png)
 
-A continuación, la captura de pantalla de corriente y voltaje medidos tanto en Tinkercad como en multisim:
+A continuación, la captura de pantalla de corriente y voltaje medidos tanto en Tinkercad:
 
 4.5.4.	Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
